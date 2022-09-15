@@ -1,2 +1,4 @@
 # JS-puzzle-game
-PUZZLE GAME using HTML, CSS and JAVASCRIPT
+WEB WIRE - PUZZLE GAME using HTML, CSS and JAVASCRIPT
+
+https://itsaditisaraswat.github.io/JS-puzzle-game/
